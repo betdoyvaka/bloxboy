@@ -5,6 +5,14 @@
 -- PLACE ID LOADER
 -- NON-DRAG UI
 --==================================================
+_G.YOKUDO_EnablePrint = false
+
+local oldPrint = print
+print = function(...)
+    if _G.YOKUDO_EnablePrint then
+        oldPrint(...)
+    end
+end
 
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
