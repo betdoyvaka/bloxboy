@@ -2,7 +2,7 @@
 -- YOKUDO HUB | KEY SYSTEM
 -- AUTO VERIFY BEFORE UI
 -- AUTO SAVE KEY
--- PLACE ID LOADER betdoyvaka/boom2
+-- PLACE ID LOADER 
 -- NON-DRAG UI
 --==================================================
 _G.YOKUDO_EnablePrint = false
