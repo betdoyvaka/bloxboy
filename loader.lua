@@ -2,7 +2,7 @@
 -- YOKUDO HUB | KEY SYSTEM
 -- AUTO VERIFY BEFORE UI
 -- AUTO SAVE KEY
--- PLACE ID LOADER
+-- PLACE ID LOADER betdoyvaka/boom2
 -- NON-DRAG UI
 --==================================================
 _G.YOKUDO_EnablePrint = false
@@ -43,11 +43,11 @@ local LOADERS = {
 
     -- SEA 2
     [79091703265657] =
-        "https://raw.githubusercontent.com/hotibody99828/dodonana98/main/Loader.lua",
+        "https://raw.githubusercontent.com/betdoyvaka/boom1/main/Loader.lua",
 
     -- SEA 3
     [100117331123089] =
-        "https://raw.githubusercontent.com/hotibody99828/dodonana99/main/Loader.lua",
+        "https://raw.githubusercontent.com/betdoyvaka/boom2/main/Loader.lua",
 
 }
 
